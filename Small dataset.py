@@ -1,6 +1,6 @@
 
 
-# MLP for Pima Indians Dataset with 10-fold cross validation
+# MLP for Dataset with 10-fold cross validation
 from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.model_selection import StratifiedKFold
