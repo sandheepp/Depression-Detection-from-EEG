@@ -1,8 +1,6 @@
 from scipy import stats
 import numpy as np
 
-
-
 dep_left_cl=[]
 i=1
 while(i<31):
